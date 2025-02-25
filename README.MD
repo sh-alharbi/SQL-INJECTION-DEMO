@@ -1,3 +1,4 @@
+SQL Injection Demo - Understanding Web Security Vulnerabilities
 I created a demo to show how SQL injection attacks can exploit weak web application security. By manipulating input fields like usernames and passwords, attackers can bypass authentication and access sensitive data in the database. The goal is to educate on the importance of securing web applications against SQL injection and safeguarding user data.
 To use the provided files to demonstrate the SQL injection vulnerability follow these steps:
 
